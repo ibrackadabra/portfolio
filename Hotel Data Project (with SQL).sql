@@ -153,3 +153,4 @@ GROUP BY
 ORDER BY 
   arrival_date_year, 
   hotel;
+  	-- (2020 data is not complete, it stops at august)
